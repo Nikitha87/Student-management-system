@@ -13,9 +13,7 @@ This is a simple command-line based Student Management System developed using Py
 - jupiter Notebook
 
 ## ▶️ How to Run
-1. Install Python
-2. Run the file:
-   python main.py
+1. used in Jupiter Notebook
 
 ## 📚 Learning Outcome
 - Learned basic Python concepts like lists and dictionaries
